@@ -1,6 +1,6 @@
 {
   "name": "playwright",
-  "displayName": "Playwright Test for VSCode",
+  "displayName": "Playwright Test for VS Code",
   "description": "%description%",
   "icon": "images/playwright-logo.png",
   "version": "1.0.15",
